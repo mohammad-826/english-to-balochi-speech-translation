@@ -1,10 +1,8 @@
-
 import "./globals.css";
 
 export const metadata = {
   title: "English to Balochi Speech Translation",
-  description:
-    "An AI-powered system that translates English speech into Balochi speech using Whisper, mBART and OmniVoice.",
+  description: "English speech to Balochi speech translation using AI.",
 };
 
 export default function RootLayout({ children }) {
